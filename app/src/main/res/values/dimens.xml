@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_tiny">4dp</dimen>
+    <dimen name="size_small">8dp</dimen>
+    <dimen name="size_small_big">12dp</dimen>
+    <dimen name="size_default">16dp</dimen>
+    <dimen name="size_medium">24dp</dimen>
+    <dimen name="size_large">32dp</dimen>
+    <dimen name="size_xlarge">96dp</dimen>
+
+    <dimen name="corner_default">8dp</dimen>
+    <dimen name="corner_large">16dp</dimen>
+    <dimen name="corner_circle">99dp</dimen>
+
+    <dimen name="movie_image_height">200dp</dimen>
+    <dimen name="movie_image_detail_height">256dp</dimen>
+
+    <item name="text_line_spacing" format="float" type="dimen">1.3</item>
+</resources>

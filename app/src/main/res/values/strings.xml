@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="loading">Cargando...</string>
+    <string name="description">Descripción</string>
+    <string name="actors">Reparto</string>
+    <string name="directors">Director(es)</string>
+    <string name="search">Buscar</string>
+    <string name="no_internet_title">Oops! Sin internet</string>
+    <string name="no_internet_message">Por favor, revisa tu conexión</string>
+    <string name="ok">Ok</string>
+</resources>
