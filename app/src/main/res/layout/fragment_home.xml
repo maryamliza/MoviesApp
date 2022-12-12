@@ -11,8 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="@dimen/size_default"
-        android:layout_marginTop="@dimen/size_large"
-        android:layout_marginBottom="@dimen/size_default"
+        android:layout_marginTop="@dimen/size_default"
         app:cardCornerRadius="@dimen/corner_circle">
 
         <com.google.android.material.textfield.TextInputLayout
@@ -48,7 +47,6 @@
                 android:id="@+id/rc_movie"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginTop="@dimen/size_small"
                 app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
                 app:spanCount="2"
                 android:padding="@dimen/size_small"
